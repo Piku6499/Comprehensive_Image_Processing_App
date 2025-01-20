@@ -1,0 +1,8 @@
+Flask
+flask-cors
+numpy
+Keras-Preprocessing
+pillow
+
+opencv-python-headless
+Pywavelets
